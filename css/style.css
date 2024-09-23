@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: ;
+}
+
+.inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
